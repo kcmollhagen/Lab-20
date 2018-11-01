@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(145, 68, 221);
+}
+
+.tag1{
+    text-decoration: underline;
+}
+
+.pic{
+    height: 350px;
+    width: 425px;
+}
+
+.tag2{
+    font-weight: bold;
+    color: darkblue;
+}
+.pic2{
+    height: 350;
+    width: 275;
+}
